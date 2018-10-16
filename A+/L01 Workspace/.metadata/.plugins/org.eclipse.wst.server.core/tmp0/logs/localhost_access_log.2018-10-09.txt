@@ -1,0 +1,16 @@
+127.0.0.1 - - [09/Oct/2018:13:50:17 +0200] "GET / HTTP/1.1" 404 951
+127.0.0.1 - - [09/Oct/2018:13:50:59 +0200] "GET /Acme-Shout%E2%80%9D HTTP/1.1" 404 989
+127.0.0.1 - - [09/Oct/2018:13:51:03 +0200] "GET /favicon.ico HTTP/1.1" 404 973
+127.0.0.1 - - [09/Oct/2018:13:51:09 +0200] "GET /favicon.ico HTTP/1.1" 404 973
+127.0.0.1 - - [09/Oct/2018:13:53:16 +0200] "GET / HTTP/1.1" 404 951
+127.0.0.1 - - [09/Oct/2018:13:53:34 +0200] "GET /Acme-Shout HTTP/1.1" 302 -
+127.0.0.1 - - [09/Oct/2018:13:53:40 +0200] "GET /Acme-Shout/ HTTP/1.1" 200 1968
+127.0.0.1 - - [09/Oct/2018:13:53:40 +0200] "GET /Acme-Shout/scripts/jquery.js HTTP/1.1" 200 275527
+127.0.0.1 - - [09/Oct/2018:13:53:40 +0200] "GET /Acme-Shout/styles/jmenu.css HTTP/1.1" 200 1696
+127.0.0.1 - - [09/Oct/2018:13:53:40 +0200] "GET /Acme-Shout/styles/common.css HTTP/1.1" 200 361
+127.0.0.1 - - [09/Oct/2018:13:53:40 +0200] "GET /Acme-Shout/scripts/jmenu.js HTTP/1.1" 200 10578
+127.0.0.1 - - [09/Oct/2018:13:53:40 +0200] "GET /Acme-Shout/styles/displaytag.css HTTP/1.1" 200 2826
+127.0.0.1 - - [09/Oct/2018:13:53:40 +0200] "GET /Acme-Shout/scripts/jquery-ui.js HTTP/1.1" 200 465012
+127.0.0.1 - - [09/Oct/2018:13:53:40 +0200] "GET /Acme-Shout/images/logo.png HTTP/1.1" 200 33484
+127.0.0.1 - - [09/Oct/2018:13:54:20 +0200] "GET /Acme-Shout/?language=en HTTP/1.1" 200 1968
+127.0.0.1 - - [09/Oct/2018:13:54:21 +0200] "GET /Acme-Shout/?language=es HTTP/1.1" 200 1984
