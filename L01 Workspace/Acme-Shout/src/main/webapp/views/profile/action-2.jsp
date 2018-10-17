@@ -20,7 +20,7 @@
 
 <form:form modelAttribute="calculator">
 
-	<form:input path="x" /> <form:errors path="x" /> <br />
+	<form:input path="x" /> <form:errors class="error" path="x" /> <br />
 	<form:input path="y" /> <form:errors path="y" /> <br />
 	<form:select path="operator" >
 		<form:option value="+" />
