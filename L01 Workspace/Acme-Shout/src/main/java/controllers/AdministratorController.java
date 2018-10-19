@@ -59,16 +59,6 @@ public class AdministratorController extends AbstractController {
 	}
 
 	// Action-2 ---------------------------------------------------------------
-	/*
-	 * @RequestMapping("/action-2")
-	 * public ModelAndView action2() {
-	 * ModelAndView result;
-	 * 
-	 * result = new ModelAndView("administrator/action-2");
-	 * 
-	 * return result;
-	 * }
-	 */
 
 	@RequestMapping(value = "/action-2", method = RequestMethod.GET)
 	public ModelAndView action2() {
